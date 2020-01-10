@@ -1,4 +1,4 @@
-module github.com/JesterOrNot/v2
+module github.com/JesterOrNot/Go-Project-Example/v2
 
 go 1.13
 
