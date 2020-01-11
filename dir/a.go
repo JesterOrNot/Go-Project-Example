@@ -1,5 +1,6 @@
 package dir
 
-func helloDir() {
+// HelloDir Say hi
+func HelloDir() {
 	println("Hi")
 }

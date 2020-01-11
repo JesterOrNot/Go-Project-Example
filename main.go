@@ -1,7 +1,7 @@
 package main
 
-import mod "github.com/JesterOrNot/Go-Project-Example"
+import "example/dir"
 
 func main() {
-	mod.helloDir()
+	dir.HelloDir()
 }
